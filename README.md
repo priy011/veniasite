@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+This is the sample veniasite using EDS it was created.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--veniasite--priyanka6800.aem.page/
+- Live: https://main--veniasite--priyanka6800.aem.live/
 
 ## Documentation
 
